@@ -1,0 +1,15 @@
+{
+    "name": "resonance/resonance",
+    "autoload": {
+        "psr-4": {
+            "Resonance\\Resonance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mateusz Charytoniuk",
+            "email": "mateusz.charytoniuk@protonmail.com"
+        }
+    ],
+    "require": {}
+}
